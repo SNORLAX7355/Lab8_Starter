@@ -1,9 +1,9 @@
 {
     "name": "Lab8_Starter",
     "short_name": "Eliot Yoo",
-    "description": "minimal-ui",
-    "start_url": "https://snorlax7355.github.io/Lab8_Starter/",
-    "display": "",
+    "description": "",
+    "start_url": "",
+    "display": "minimal-ui",
     "background_color": "",
     "theme_color": "",
     "icons": [
