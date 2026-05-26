@@ -2,10 +2,10 @@
     "name": "Lab8_Starter",
     "short_name": "Eliot Yoo",
     "description": "pwa",
-    "start_url": "./",
+    "start_url": "./index.html",
     "display": "standalone",
-    "background_color": "#ffffff",
-    "theme_color": "#000000",
+    "background_color": "#FFFFFF",
+    "theme_color": "#FFE1C4",
     "icons": [
       {
         "src": "assets/images/icons/icon-256x256.png",
